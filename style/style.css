@@ -62,6 +62,11 @@ body {
   color: #ff3b6c;
 }
 
+.extratext {
+  font-size: 2rem;
+  color: #ff3b6c;
+}
+
 .four .text-box {
   width: 90%;
   max-width: 600px;
@@ -263,6 +268,9 @@ body {
   color: black;
 }
 
+#smiles {
+  color: #ff3b6c;
+}
 #replay:hover {
   color: #ff3b6c;
   text-decoration: underline;
